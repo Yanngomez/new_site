@@ -1,0 +1,52 @@
+body{
+    background-image:url(i9.jpg);
+}
+
+.bod{
+    border-style: inset;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-image:url(i8.jpg);
+}
+
+.im1{
+    width: 150px;
+    height: 150px;
+    border-radius: 500%;
+    text-align: center;
+}
+
+.bod1{
+    border-style: dotted;
+}
+
+.bod2{
+    border-style: double;
+}
+
+.text1{
+    text-align: center;
+}
+
+.text2{
+    text-align: center;
+}
+
+.text3{
+    
+    text-align: center;
+}
+
+.text4{
+    
+    text-align: center;
+}
+
+.text5{
+    text-align: center;
+}
+
+.text6{
+    text-align: center;
+}
