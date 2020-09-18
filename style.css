@@ -67,15 +67,9 @@ body{
 }
 
 .bod4{
-    display: inline-block;
-    padding: 5px;
-    margin: 0 30%;
-    border: 1px #3f1818 solid;
-    background-image: url(i10.jpg);
+    text-align: center;
     font-family: cursive;
-    font-weight: 200px;
     font-size: 18px;
-    width: 10%;
     animation: bounceInDown; /* referring directly to the animation's @keyframe declaration */
     animation-duration: 4s; /* don't forget to set a duration! */
     
