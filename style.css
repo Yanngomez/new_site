@@ -1,0 +1,147 @@
+body{
+    
+    background: rgb(14,14,14);
+background: radial-gradient(circle, rgba(14,14,14,0.5242471988795518) 0%, rgba(17,17,18,0.700717787114846) 65%, rgba(2,0,8,0.3337710084033614) 82%, rgba(42,28,110,0.6867121848739496) 100%);
+
+}
+
+.bod{
+    border-style: inset;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-image: url(i11.jpg);
+}
+
+.im1{
+    width: 150px;
+    height: 150px;
+    border-radius: 500%;
+    text-align: center;
+}
+
+.bod1{
+    display: inline-block;
+    padding: 5px;
+    margin: 0 30%;
+    animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 5s; /* don't forget to set a duration! */
+    border: 1px #3f1818 solid;
+    background-color: rgb(137, 145, 153);
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 18px;
+    width: 40%;
+}
+
+.bod2{
+    display: inline-block;
+    border: 1px #363636 solid;
+    padding: 5px;
+    animation: backInLeft;
+    animation-duration: 5s;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 18px;
+    height: auto;
+    width: 80%;
+    margin: 2% 10%;
+    background-color: cornsilk;
+}
+
+.bod3{
+    border-style: solid;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background-image: url(i9.jpg);
+    font-weight: 200px;
+    font-size: 18px;
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 18px;
+    width: 40%;
+    margin: 0 30%;
+    animation: heartBeat; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 10s; /* don't forget to set a duration! */
+}
+
+.bod4{
+    text-align: center;
+    font-family: cursive;
+    font-weight: 200px;
+    font-size: 18px;
+    animation: bounceInDown; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 4s; /* don't forget to set a duration! */
+    
+}
+
+.text0{
+    padding-top: 2%;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 300px;
+    font-size: 27px;
+    color: #fff;
+}
+
+.text1{
+    padding-top: 2%;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 300px;
+    font-size: 27px;
+}
+
+.text2{
+    padding-top: 2%;
+      text-align: center;
+      font-family: cursive;
+      font-weight: 300px;
+      font-size: 27px;
+}
+
+.card{
+    border: transparent;
+  }
+
+.row {
+      margin-left: 5%;
+  }
+
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 3px solid rgb(14, 3, 3);
+    margin-left: 530px;
+    margin-right: 500px;
+    padding: 0px;
+}
+
+.heure-centre{
+    text-align: center;
+    font-family: cursive;
+    font-weight: 250px;
+    font-size: 27px;
+}
+
+.text3{
+    
+    text-align: center;
+}
+
+.text4{
+    
+    text-align: center;
+}
+
+.text5{
+    text-align: center;
+}
+
+.couleur{
+    color: #fff;
+    margin-top: 2%;
+}
